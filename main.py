@@ -5,3 +5,4 @@ people = input("How many people to split the bill? ")
 f_bill = str((int(bill) + int(tip))/int(people))
 
 print(f"Each person should pay: ${f_bill}")
+print("Thanks for Using")
